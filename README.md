@@ -1,5 +1,8 @@
 # unionfs
 
+> **Note**: This is a fork of streamich/unionfs. 
+> It holds my PRs and is published as npm module [@aleung/unionfs](https://www.npmjs.com/package/@aleung/unionfs).
+
 Creates a union of multiple `fs` file systems.
 
 [![][npm-img]][npm-url] [![][travis-badge]][travis-url]

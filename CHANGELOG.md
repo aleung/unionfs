@@ -1,3 +1,12 @@
+# Changlog of @aleung/unionfs
+
+## 4.4.0
+- support `unwatchFile` (streamich/unionfs!557)
+
+----
+
+Changelog of upstream
+
 # [4.4.0](https://github.com/streamich/unionfs/compare/v4.3.2...v4.4.0) (2020-03-12)
 
 
